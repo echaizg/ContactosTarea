@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ContactosTarea</string>
+    <string name="hint_nombre_completo">Nombre Completo</string>
+    <string name="hint_fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_descripcion_contacto">Descripción del Contacto</string>
+
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_siguiente">Siguiente</string>
+
+    <string name="txt_confirmar_datos">Confirmar Datos</string>
+    <string name="txt_editar_datos">Editar Datos</string>
+
+
+
+
+</resources>
